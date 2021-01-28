@@ -1,0 +1,14 @@
+LARAVEL THUC CHIEN
+
+// câu lệnh tao thu muc:
+	composer create-project --prefer-dist laravel/laravel:^7.0
+	suntech-laravel-class
+
+// Sử dụng lệnh laravel: php artisan commandName
+
+
+// cd vào thư mục "suntech-laravel-class" để sử dụng câu lệnh hỗ trợ sẵn trong laravel.
+
+// run Laravel --> 2 cách.
+	1. start Server sử dụng lệnh: php artisan serve
+	--> Nó xuất hiện link port --> truy cập vào link đó.
